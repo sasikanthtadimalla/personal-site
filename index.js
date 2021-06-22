@@ -14,7 +14,7 @@ $(window).scroll(function(event) {
 
 //------------------------------------- FRONT END -----------------------------------
 $('.1').hover(function() {
-  $(this).html("<i class='fas fa-star'></i> <i class='fas fa-star'></i> <i class='fas fa-star'></i> ");
+  $(this).html("<i class='fas fa-star'></i> <i class='fas fa-star'></i>");
 }, function() {
   $(this).text("React JS");
 });
