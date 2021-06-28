@@ -102,7 +102,7 @@ $('.14').hover(function() {
 $('.15').hover(function() {
   $(this).html("<i class='fas fa-star'></i> <i class='fas fa-star'></i> <i class='fas fa-star'></i> <i class='fas fa-star'>");
 }, function() {
-  $(this).text("Command Shell (Hyper)");
+  $(this).text("Command Shell");
 });
 
 $('.16').hover(function() {
