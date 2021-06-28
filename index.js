@@ -130,9 +130,9 @@ $('.19').hover(function() {
 });
 
 $('.20').hover(function() {
-  $(this).html("<i class='fas fa-star'></i> <i class='fas fa-star'></i> <i class='fas fa-star'></i>");
+  $(this).html("<i class='fas fa-star'></i> <i class='fas fa-star'></i> <i class='fas fa-star'></i> <i class='fas fa-star'></i>");
 }, function() {
-  $(this).text("API Handling");
+  $(this).text("RESTful API");
 });
 
 $('.21').hover(function() {
